@@ -1,1 +1,1 @@
-# multi-threaded circular_buffer
+# multithreaded circular_buffer
